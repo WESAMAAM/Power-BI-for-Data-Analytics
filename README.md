@@ -24,8 +24,7 @@ This first dashboard was built using the fundamental skills learned in the first
 * **Link to view:** [Click here to open Project One](https://app.powerbi.com/view?r=eyJrIjoiNTUzZjExNWUtNjE4OC00Yzc1LWJlYzYtMTA1ZTlkMzZmNjdkIiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
 **Dashboard Screenshot:**
-> *(Please replace `placeholder1.png` with your actual image path)*
-> <img src="placeholder1.png" alt="Basic Data Jobs Dashboard" width="700">
+> <img src="images/Screenshot 2026-09-25 151131.png" alt="Basic Data Jobs Dashboard" width="700">
 
 ### 2. Advanced Data Jobs Dashboard (Project Two)
 This is the upgraded, final version of the dashboard. It uses a more complex data model (star schema) and advanced DAX formulas. This version provides much deeper insights, especially regarding the specific skills required for different jobs.
@@ -39,7 +38,7 @@ This is the upgraded, final version of the dashboard. It uses a more complex dat
 * **Link to view:** [Click here to open Project Two](https://app.powerbi.com/view?r=eyJrIjoiMGJjNzYxZWEtYTkzZi00M2I3LWEzOGUtZWVmZTVlMmEzNTQ0IiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
 **Dashboard Screenshot:**
-> *(Please replace `placeholder2.png` with your actual image path)*
+> <img src="placeholder2.png" alt="Advanced Data Jobs Dashboard" width="700">
 > <img src="placeholder2.png" alt="Advanced Data Jobs Dashboard" width="700">
 
 ## Key Skills Demonstrated
