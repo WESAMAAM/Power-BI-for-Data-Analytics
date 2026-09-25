@@ -34,7 +34,6 @@ This is the upgraded, final version of the dashboard. It uses a more complex dat
   * **Salary vs. Skills:** A scatter plot showing if jobs that require more skills actually pay a higher salary.
   * **Interactive Parameters:** Users can switch the view to see data by Job Title, Country, Company, or Skill using interactive buttons.
   * **Dynamic KPIs:** Key Performance Indicators that update based on what the user selects.
-  * **Dark Mode Design:** A cleaner, more professional look focused on key metrics.
 
 **Dashboard:**
 > <img src="images/Screenshot 2026-09-25 151302.png" alt="Advanced Data Jobs Dashboard" width="700">
