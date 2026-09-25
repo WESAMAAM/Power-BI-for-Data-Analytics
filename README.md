@@ -38,7 +38,7 @@ This is the upgraded, final version of the dashboard. It uses a more complex dat
 * **Link to view:** [Click here to open Project Two](https://app.powerbi.com/view?r=eyJrIjoiMGJjNzYxZWEtYTkzZi00M2I3LWEzOGUtZWVmZTVlMmEzNTQ0IiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
 **Dashboard Screenshot:**
-> <img src="placeholder2.png" alt="Advanced Data Jobs Dashboard" width="700">
+> <img src="images/Screenshot 2026-09-25 151302.png" alt="Advanced Data Jobs Dashboard" width="700">
 > <img src="placeholder2.png" alt="Advanced Data Jobs Dashboard" width="700">
 
 ## Key Skills Demonstrated
