@@ -8,7 +8,7 @@ The course I completed is **"Power BI for Data Analytics - Full Course for Begin
 
 * **Part 1 (Fundamentals):** Focused on importing data, basic data cleaning, and creating standard visuals (bar charts, line charts, maps) to build a basic dashboard.
 * **Part 2 (Advanced):** Focused on using Power Query for deep data transformation (ETL process) and using DAX (Data Analysis Expressions) for creating custom measures and complex data models (like a star schema).
-* > <img src="placeholder1.png" alt="Basic Data Jobs Dashboard" width="700">
+* > <img src="images/Screenshot 2026-09-25 151502.png" alt="Basic Data Jobs Dashboard" width="700">
 
 ## My Dashboards
 During the course, I built two main dashboards. I have published both to the web so anyone can interact with them.
