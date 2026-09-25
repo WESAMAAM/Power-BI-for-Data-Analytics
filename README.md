@@ -1,14 +1,14 @@
-# Power BI Data Analytics Portfolio
+# Power BI for Data Analytics
 
 ## About This Project
-This repository highlights my work and progress after completing a comprehensive 8-hour course on Power BI for Data Analytics. The projects here demonstrate my ability to take raw data, clean it, model it, and turn it into interactive, easy-to-understand visual dashboards. The main focus of the data used in these projects is the data science job market, helping job seekers understand trends, salaries, and required skills.
+This repository highlights my work and progress after completing a comprehensive course on Power BI for Data Analytics. The projects here demonstrate my ability to take raw data, clean it, model it, and turn it into interactive, easy-to-understand visual dashboards. The main focus of the data used in these projects is the data science job market, helping job seekers understand trends, salaries, and required skills.
 
 ## Course Overview
-The course I completed is **"Power BI for Data Analytics - Full Course for Beginners"** by Luke Barousse. It is a complete guide that goes from the very basics to advanced features of Power BI.
+The course I completed is **"Power BI for Data Analytics"** by Luke Barousse. It is a complete guide that goes from the very basics to advanced features of Power BI.
 
 * **Part 1 (Fundamentals):** Focused on importing data, basic data cleaning, and creating standard visuals (bar charts, line charts, maps) to build a basic dashboard.
 * **Part 2 (Advanced):** Focused on using Power Query for deep data transformation (ETL process) and using DAX (Data Analysis Expressions) for creating custom measures and complex data models (like a star schema).
-* > <img src="images/Screenshot 2026-09-25 151502.png" alt="Basic Data Jobs Dashboard" width="700">
+ > <img src="images/Screenshot 2026-09-25 151502.png" alt="Basic Data Jobs Dashboard" width="700">
 
 ## My Dashboards
 During the course, I built two main dashboards. I have published both to the web so anyone can interact with them.
@@ -21,10 +21,10 @@ This first dashboard was built using the fundamental skills learned in the first
   * Average yearly and hourly salaries.
   * Which countries have the most job postings (using a map visual).
   * The top data jobs and how many postings don't require a degree.
-* **Link to view:** [Click here to open Project One](https://app.powerbi.com/view?r=eyJrIjoiNTUzZjExNWUtNjE4OC00Yzc1LWJlYzYtMTA1ZTlkMzZmNjdkIiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
-**Dashboard Screenshot:**
+**Dashboard:**
 > <img src="images/Screenshot 2026-09-25 151131.png" alt="Basic Data Jobs Dashboard" width="700">
+* **Link to view:** [Click here to open Project One](https://app.powerbi.com/view?r=eyJrIjoiNTUzZjExNWUtNjE4OC00Yzc1LWJlYzYtMTA1ZTlkMzZmNjdkIiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
 ### 2. Advanced Data Jobs Dashboard (Project Two)
 This is the upgraded, final version of the dashboard. It uses a more complex data model (star schema) and advanced DAX formulas. This version provides much deeper insights, especially regarding the specific skills required for different jobs.
@@ -35,11 +35,11 @@ This is the upgraded, final version of the dashboard. It uses a more complex dat
   * **Interactive Parameters:** Users can switch the view to see data by Job Title, Country, Company, or Skill using interactive buttons.
   * **Dynamic KPIs:** Key Performance Indicators that update based on what the user selects.
   * **Dark Mode Design:** A cleaner, more professional look focused on key metrics.
-* **Link to view:** [Click here to open Project Two](https://app.powerbi.com/view?r=eyJrIjoiMGJjNzYxZWEtYTkzZi00M2I3LWEzOGUtZWVmZTVlMmEzNTQ0IiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
-**Dashboard Screenshot:**
+**Dashboard:**
 > <img src="images/Screenshot 2026-09-25 151302.png" alt="Advanced Data Jobs Dashboard" width="700">
-> <img src="placeholder2.png" alt="Advanced Data Jobs Dashboard" width="700">
+> <img src="images/Screenshot 2026-09-25 151338.png" alt="Advanced Data Jobs Dashboard" width="700">
+* **Link to view:** [Click here to open Project Two](https://app.powerbi.com/view?r=eyJrIjoiMGJjNzYxZWEtYTkzZi00M2I3LWEzOGUtZWVmZTVlMmEzNTQ0IiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
 
 ## Key Skills Demonstrated
 Through building these two dashboards, I have learned and applied the following skills:
