@@ -1,6 +1,10 @@
 # Power BI for Data Analytics
 
+Link to view Project One: [Basic Data Jobs Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTUzZjExNWUtNjE4OC00Yzc1LWJlYzYtMTA1ZTlkMzZmNjdkIiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)   
+Link to view Project Two: [Advanced Data Jobs Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJjNzYxZWEtYTkzZi00M2I3LWEzOGUtZWVmZTVlMmEzNTQ0IiwidCI6IjRlNTViNTkzLTIzYWItNDNiNC05ZGJhLTNmNGQ4YmQyOGI0MyIsImMiOjl9)
+
 ## About This Project
+
 This repository highlights my work and progress after completing a comprehensive course on Power BI for Data Analytics. The projects here demonstrate my ability to take raw data, clean it, model it, and turn it into interactive, easy-to-understand visual dashboards. The main focus of the data used in these projects is the data science job market, helping job seekers understand trends, salaries, and required skills.
 
 ## Course Overview
